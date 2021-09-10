@@ -1,2 +1,2 @@
 # LAMP-Docker-Compose
-Docker Compose for LAMP and phpMyAdmin
+LAMP+phpMyAdmin environment using Docker Compose

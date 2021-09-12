@@ -16,5 +16,5 @@ p7zip-full
 composer create-project symfony/framework-standard-edition . "2.8"
 
 ## Troubleshooting
-### If you get "You are not allowed to access this file."
+### If you get *"You are not allowed to access this file."*
 Docker Compose set local IP to 172.20.0.1. Add to app/web/app_dev.php

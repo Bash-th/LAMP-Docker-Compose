@@ -1,4 +1,4 @@
-# Docker with Symfony 2.8
+# Symfony 2.8 with Docker 
 LAMP+phpMyAdmin environment using Docker Compose
 
 ## What´s include:
